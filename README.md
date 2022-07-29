@@ -23,11 +23,10 @@
 
 ## Features ✨
 
-- Get Saved Tabs `Planned`
-- Update Saved Tabs `Planned`
-- Create New Saved Tabs `Planned`
-- Modify Projects (Tab Groups) `Planned`
-- Typescript Support `Planned`
+- Create Component Projects `Planned`
+- Create Framework Projects `Planned`
+- Create Template Projects `Planned`
+- Create Big Picture Projects `Planned`
 
 ## Install 🛠
 
