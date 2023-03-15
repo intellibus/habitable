@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "habitable",
-  "version": "1.0.237",
+  "version": "1.0.238",
   "description": "Standard Templates For Open Source Universe Projects",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
